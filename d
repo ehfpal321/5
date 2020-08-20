@@ -1,2 +1,3 @@
 <meta charset="utf-8">
-<head><strong>안녕하세요!<string><head>
+<h1>혜냥이의 사이트<h1>
+<strong>안녕하세요!<string>
